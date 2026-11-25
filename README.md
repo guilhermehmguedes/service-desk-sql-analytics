@@ -73,4 +73,4 @@ Chamados em aberto (`NULL` em `data_fechamento`), um mês sem chamados, analista
 
 ## Autor
 
-Guilherme Guedes · [LinkedIn](COLE-AQUI-O-LINK-DO-SEU-LINKEDIN)
+Guilherme Guedes · [LinkedIn](https://www.linkedin.com/in/guilherme-henrique-guedes/)
